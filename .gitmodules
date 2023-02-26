@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/ctl_mpc/acados"]
+	path = catkin_ws/src/ctl_mpc/acados
+	url = https://github.com/acados/acados.git
