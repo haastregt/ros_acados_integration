@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libctl_mpc.so -o /home/jonne/testing_ws/devel/lib/libctl_mpc.so CMakeFiles/ctl_mpc.dir/solver/c_generated_code/acados_solver_astrobee.c.o 

@@ -1,0 +1,2 @@
+beginner_tutorials:ctl_mpc
+-DCATKIN_DEVEL_PREFIX=/home/jonne/testing_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jonne/testing_ws/install -G Unix Makefiles

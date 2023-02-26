@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ctl_mpc_node.dir/src/solver_test.cpp.o -o /home/jonne/testing_ws/devel/lib/ctl_mpc/ctl_mpc_node 
