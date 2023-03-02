@@ -132,6 +132,9 @@ include_directories(
   ${acados_include}/blasfeo/include/
   ${acados_include}/hpipm/include/
   ${acados_include}/daqp/
+  #${acados_include}/acados_c/
+  #${acados_include}
+  #${PROJECT_SOURCE_DIR}/acados/
   ${solver_code}
 )
 
